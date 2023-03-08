@@ -1,6 +1,7 @@
 module.exports = {
   title: "Hello VuePress",
   description: "Just playing around",
+  base:'/hello-VuePress/',
   themeConfig: {
     logo: '/assets/img/logo.png',
   },
